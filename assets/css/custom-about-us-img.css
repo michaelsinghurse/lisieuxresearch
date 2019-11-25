@@ -1,0 +1,35 @@
+@media (min-width: 320px) {
+  .about-us-img {
+    max-width: 90%;
+  }
+}
+
+@media (min-width: 375px) {
+  .about-us-img {
+    max-width: 85%;
+  }
+}
+
+@media (min-width: 425px) {
+  .about-us-img {
+    max-width: 65%;
+  }
+}
+
+@media (min-width: 576px) {
+  .about-us-img {
+    max-width: 55%;
+  }
+}
+
+@media (min-width: 768px) {
+  .about-us-img {
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 992px) {
+  .about-us-img {
+    max-width: 100%;
+  }
+}
