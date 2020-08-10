@@ -1,3 +1,21 @@
+.header h1 {
+  font-size: 1.8em;
+}
+
+.marketing h3 {
+  font-size: 1.5em; 
+}
+
+#about-us h3 {
+  font-size: 1.3em;
+}
+
+#about-us h2,
+#contact-us h2 {
+  color: #33cc33;
+  font-size: 1.8em;
+}
+
 @media (min-width: 320px) {
   .about-us-img {
     max-width: 90%;
