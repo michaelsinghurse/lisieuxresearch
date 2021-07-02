@@ -16,6 +16,13 @@
   font-size: 1.8em;
 }
 
+.update {
+  background: gold;
+  padding: 10px 15px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
 @media (min-width: 320px) {
   .about-us-img {
     max-width: 90%;
